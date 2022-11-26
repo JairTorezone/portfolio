@@ -39,3 +39,50 @@
   font-size: 18px;
   font-weight: 700;
 }
+.profile-container {
+  background-color: #1abc9c;
+  color: #fff;
+  padding: 60px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-avatar img {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  border: 1px solid red;
+  margin: auto;
+}
+
+.profile-title {
+  margin: 35px 0 0 0;
+  font-size: 2rem;
+}
+.profile-description {
+  margin: 0;
+  font-size: 1rem;
+}
+#portfolio {
+  width: 100%;
+  max-width: 960px;
+}
+.portfolio-title {
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: #2c3e50;
+}
+.portfolio-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.portfolio-item {
+  width: calc(100% - 40px);
+  max-width: 420px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 20px;
+}
