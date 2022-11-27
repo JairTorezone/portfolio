@@ -14,6 +14,7 @@ footer {
 }
 
 /* CLASSES E IDs*/
+/*********************HEAER */
 .nav-container {
   background-color: #2c3e50;
   height: 100px;
@@ -50,6 +51,7 @@ footer {
   font-weight: 700;
   margin-bottom: 5px;
 }
+/*********************SECTION AVATAR */
 .profile-container {
   background-color: #1abc9c;
   color: #fff;
@@ -68,12 +70,13 @@ footer {
 
 .profile-title {
   margin: 35px 0 0 0;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .profile-description {
   margin: 0;
   font-size: 1rem;
 }
+/*********************SECTION PORTFOLIO */
 #portfolio {
   width: 100%;
   max-width: 960px;
@@ -99,6 +102,7 @@ footer {
   margin: 20px;
 }
 
+/*********************FOOTER */
 .footer-title {
   color: #fff;
   font-size: 14px;
@@ -121,7 +125,8 @@ footer {
     font-size: 24px;
   }
   .portfolio-item {
-    width: 280px;
+    max-width: 280px;
+    height: 200px;
   }
   .nav-container {
     display: flex;
