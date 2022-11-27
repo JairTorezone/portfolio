@@ -31,6 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 💻 Projeto
+https://jairtorezone.github.io/portfolio/
 
 Site para mostrar os porftfolios criados para fins de estudo e aprendizado, nele contém alguns projetos desenvolvidos e a evolução do aprendizado adquirido.
 
