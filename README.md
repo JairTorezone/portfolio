@@ -2,7 +2,7 @@
 <h1 align="center">Portfolio</h1>
 
 <p align="center">
-Porftolio - alguns projetos para fim de estudo feito com Java, Spring Boot, React, HTML, CSS e Javascript.
+Porftolio de alguns projetos para fim de estudo feito com Java, Spring Boot, React, HTML, CSS e Javascript.
 
 </p>
 
